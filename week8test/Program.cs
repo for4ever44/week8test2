@@ -6,7 +6,7 @@ namespace week8test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! local");
+            Console.WriteLine("Hello World! online");
         }
     }
 }
